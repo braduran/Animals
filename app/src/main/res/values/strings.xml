@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mar</string>
+    <string name="title_activity_menu_side">Animals</string>
+    <string name="nav_header_title">Brayan Mauricio Durango Suarez</string>
+    <string name="nav_header_subtitle">bdurango@soyucn.edu.co</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="inicio">Inicio</string>
+    <string name="menu_inicio">Peces</string>
+    <string name="parrafo_inicio">Los peces son animales vertebrados primariamente acuáticos, generalmente ectotérmicos (regulan su
+        temperatura a partir del medio ambiente) y con respiración por branquias.
+     Suelen estar recubiertos por escamas, y están dotados de aletas, que permiten su movimiento continuo en los medios acuáticos,
+        y branquias, con las que captan el oxígeno disuelto en el agua.</string>
+    <string name="menu_betta">Betta</string>
+    <string name="parrafo_betta"> También como el pez combatiente o luchador de siam, es un ejemplar muy especial,
+        que aporta una fascinante nota de color a cualquier acuario</string>
+    <string name="menu_disco">Disco</string>
+    <string name="parrafo_disco">Tiene forma de disco redondo de colores irisados. Proviene originariamente
+        de la región amazónica y en la actualidad se encuentra en muchos acuarios.</string>
+    <string name="menu_guppy">Guppy</string>
+    <string name="parrafo_guppy">Es uno de los peces de acuario de agua dulce más populares del mundo.
+        Se reproduce sin problema alguno, incluso estando en confinación, es fácil de cuidar
+        y por eso es ideal para principiantes en la acuariofilia.</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+</resources>

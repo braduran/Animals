@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_inicio">
+
+    <fragment
+        android:id="@+id/nav_inicio"
+        android:name="com.example.animals.fragments.InicioFragment"
+        android:label="@string/inicio"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/nav_betta"
+        android:name="com.example.animals.fragments.BettaFragment"
+        android:label="@string/menu_betta"
+        tools:layout="@layout/fragment_betta" />
+
+    <fragment
+        android:id="@+id/nav_disco"
+        android:name="com.example.animals.fragments.DiscoFragment"
+        android:label="@string/menu_disco"
+        tools:layout="@layout/fragment_disco" />
+
+    <fragment
+        android:id="@+id/nav_guppy"
+        android:name="com.example.animals.fragments.GuppyFragment"
+        android:label="@string/menu_guppy"
+        tools:layout="@layout/fragment_guppy" />
+</navigation>
